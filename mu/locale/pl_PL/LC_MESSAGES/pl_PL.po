@@ -20,17 +20,18 @@ msgstr ""
 
 #: mu/app.py:66
 msgid "Logging to {}"
-msgstr ""
+msgstr "Logowanie do {}"
 
 #: mu/app.py:183
 msgid "Debugger requires a Python script filename to run."
-msgstr ""
+msgstr "Debugger potrzebuje a Python skrypt nazwę pliku do uruchomienia"
 
 #: mu/debugger/client.py:106
 msgid ""
 "Connection timed out. Is your machine slow or busy? Free up some of the "
 "machine's resources and try again."
-msgstr ""
+msgstr "Połączenie zostało przerwane. Czy twój komputer jest zbyt wolny albo zajęty ? "
+"Uwolnij zasoby i spróbuj ponownie"
 
 #: mu/debugger/client.py:116
 msgid ""
@@ -95,23 +96,23 @@ msgstr ""
 
 #: mu/interface/dialogs.py:223
 msgid "Find / Replace"
-msgstr ""
+msgstr "Znajdź / Zastąp"
 
 #: mu/interface/dialogs.py:227
 msgid "Find:"
-msgstr ""
+msgstr "Znajdź"
 
 #: mu/interface/dialogs.py:233
 msgid "Replace (optional):"
-msgstr ""
+msgstr "Zastąp"
 
 #: mu/interface/dialogs.py:239
 msgid "Replace all?"
-msgstr ""
+msgstr "Zastąpić wszystko?"
 
 #: mu/interface/editor.py:222 mu/logic.py:952
 msgid "untitled"
-msgstr ""
+msgstr "bez tytułu"
 
 #: mu/interface/main.py:69
 msgid "Mode"
@@ -127,7 +128,7 @@ msgstr "Nowy"
 
 #: mu/interface/main.py:73
 msgid "Create a new Python script."
-msgstr ""
+msgstr "Tworzenie nowego skryptu Python"
 
 #: mu/interface/main.py:74
 msgid "Load"
@@ -163,11 +164,11 @@ msgstr "Pomniejsz (aby tekst był mniejszy)"
 
 #: mu/interface/main.py:90
 msgid "Theme"
-msgstr ""
+msgstr "Temat"
 
 #: mu/interface/main.py:91
 msgid "Toggle theme between day, night or high contrast."
-msgstr ""
+msgstr "Przełącz temat na dzień, noc lub wysoki kontrast"
 
 #: mu/interface/main.py:94
 msgid "Check"
@@ -175,7 +176,7 @@ msgstr "Sprawdź"
 
 #: mu/interface/main.py:95
 msgid "Check your code for mistakes."
-msgstr ""
+msgstr "Sprawdź swój kod pod kątem błędów."
 
 #: mu/interface/main.py:96
 msgid "Help"
@@ -199,7 +200,7 @@ msgstr "Mu {}"
 
 #: mu/interface/main.py:354
 msgid "Cannot connect to device on port {}"
-msgstr ""
+msgstr "Nie można połączyć się z urządzeniem na porcie {}"
 
 #: mu/interface/main.py:376
 msgid "Filesystem on micro:bit"
@@ -279,7 +280,7 @@ msgstr ""
 
 #: mu/interface/panes.py:355
 msgid "'{}' successfully deleted from micro:bit."
-msgstr ""
+msgstr "'{}' zostało pomyślnie usunięte z micro:bit."
 
 #: mu/interface/panes.py:385
 msgid "Getting '{}' from micro:bit. Copying to '{}'."
@@ -287,7 +288,7 @@ msgstr ""
 
 #: mu/interface/panes.py:396
 msgid "Successfully copied '{}' from the micro:bit to your computer."
-msgstr ""
+msgstr "Kopiowanie '{}' z micro:bit do komputera zakończone sukcesem."
 
 #: mu/interface/panes.py:409
 msgid "Open in Mu"
@@ -303,7 +304,7 @@ msgstr "Otwieranie '{}'"
 
 #: mu/interface/panes.py:457
 msgid "Files on your micro:bit:"
-msgstr ""
+msgstr "Pliki w Twoim micro:bit"
 
 #: mu/interface/panes.py:459
 msgid "Files on your computer:"
@@ -314,7 +315,8 @@ msgid ""
 "There was a problem getting the list of files on the micro:bit. Please check "
 "Mu's logs for technical information. Alternatively, try unplugging/plugging-"
 "in your micro:bit and/or restarting Mu."
-msgstr ""
+msgstr "Wystąpił problem podczas pobierania listy plików z micro:bit. Proszę sprawdzić "
+"w swoim micro:bit i/lub zrestartować"
 
 #: mu/interface/panes.py:538
 msgid ""
@@ -366,7 +368,7 @@ msgstr ""
 
 #: mu/logic.py:77
 msgid "Be brave, break things, learn and have fun!"
-msgstr ""
+msgstr "Bądź dzielny, odważny, nie łam się, ucz się i baw się dobrze!"
 
 #: mu/logic.py:78
 msgid "Make your software both useful AND fun. Empower your users."
