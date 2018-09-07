@@ -107,11 +107,11 @@ msgstr ""
 
 #: mu/interface/dialogs.py:239
 msgid "Replace all?"
-msgstr ""
+msgstr "Zastąpić wszystko?"
 
 #: mu/interface/editor.py:222 mu/logic.py:952
 msgid "untitled"
-msgstr ""
+msgstr "Bez tytułu"
 
 #: mu/interface/main.py:69
 msgid "Mode"
@@ -127,7 +127,7 @@ msgstr "Nowy"
 
 #: mu/interface/main.py:73
 msgid "Create a new Python script."
-msgstr ""
+msgstr "Tworzenie nowego skryput Python"
 
 #: mu/interface/main.py:74
 msgid "Load"
